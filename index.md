@@ -13,7 +13,7 @@ I am fascinated with the potential connections between computation theory and en
 ### Research
 
  - ##### The mathematical structure of chemical space.
-  I am considering incorporating nuclear charges and coordinates into the same framework in quantum mechanics, for the potential quantum chemistry simulation purpose, at least. In this case, Hilbert space and Schrödinger equation need to be extended, [arXiv:2012.00843].
+  I am considering incorporating nuclear charges and coordinates into the same framework in quantum mechanics. In this case, Hilbert space and Schrödinger equation need to be extended, [arXiv:2012.00843].
 
  - ##### Connections between computation theory and enriched complex physical phenomena.
 Classical computation, in Turing machine sense, belongs to some kind of reductionism which reduce a complicated computation into discrete sets and mappings. Quantum computation, in contrast to classical one, it can be reduced to a robust continuous mixing of discrete states (i.e. superposition states) and discrete transitions. As for many physical experiments, which computations can simulate, to some extent, are *single* purpose many-body simultaneous and continuous *emergence* computations. If we unify computation and experiment within the same framework, with the view of continuity and complexity, what will be the theory connecting them?
