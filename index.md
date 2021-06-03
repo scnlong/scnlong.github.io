@@ -1,6 +1,6 @@
 # Qing-Long Liu
 
-Website: scnlong.github.io
+scnlong.github.io
 
 ### About me
 
